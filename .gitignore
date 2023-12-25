@@ -1,3 +1,11 @@
+##
+bin/
+bin-int/
+
+## vs
+**.vcxproj
+
+
 ## OSX artifacts
 .DS_Store
 
