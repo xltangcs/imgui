@@ -13,6 +13,7 @@ project "Imgui"
 		"imgui_draw.cpp",
 		"imgui_tables.cpp",
 		"imgui_widgets.cpp",
+		"misc/cpp/imgui_stdlib.cpp",
 		"*.h"
 	}
 
